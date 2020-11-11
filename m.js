@@ -1,4 +1,4 @@
-users = [
+users1 = [
     { "name": "Krish", "age": 30 },
     { "name": "Manoj", "age": 38 },
     { "name": "Ramesh", "age": 33 },
