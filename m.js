@@ -1,11 +1,11 @@
-users1 = [
-    { "name": "Krish", "age": 30 },
-    { "name": "Manoj", "age": 38 },
-    { "name": "Ramesh", "age": 33 },
-    { "name": "Suresh", "age": 34 },
-    { "name": "Jayesh", "age": 40 }
+// users1 = [
+//     { "name": "Krish", "age": 30 },
+//     { "name": "Manoj", "age": 38 },
+//     { "name": "Ramesh", "age": 33 },
+//     { "name": "Suresh", "age": 34 },
+//     { "name": "Jayesh", "age": 40 }
 
-];
+// ];
 nameid=document.querySelector("#nameid");
 add=document.querySelector("#addid");
 ageid=document.querySelector("#ageid");
